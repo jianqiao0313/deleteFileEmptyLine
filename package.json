@@ -1,6 +1,6 @@
 {
   "name": "deletefileemptyline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "删除某个文件夹下所有文件的空行",
   "main": "index.js",
   "scripts": {
