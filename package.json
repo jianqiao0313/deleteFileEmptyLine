@@ -1,0 +1,22 @@
+{
+  "name": "deletefileemptyline",
+  "version": "1.0.0",
+  "description": "删除某个文件夹下所有文件的空行",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "deleteFileEmptyLine": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jianqiao0313/deleteFileEmptyLine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jianqiao0313/deleteFileEmptyLine/issues"
+  },
+  "homepage": "https://github.com/jianqiao0313/deleteFileEmptyLine#readme"
+}
