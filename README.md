@@ -12,5 +12,7 @@
 # usage
 
 ```
-deleteFileEmptyLine ../aproject
+npm i -g deletefileemptyline
+
+deletefileemptyline ../Aproject/src
 ```
